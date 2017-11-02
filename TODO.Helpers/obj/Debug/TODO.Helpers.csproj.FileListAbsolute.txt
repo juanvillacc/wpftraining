@@ -1,0 +1,4 @@
+C:\trainning\TODO\TODO.Helpers\bin\Debug\TODO.Helpers.dll
+C:\trainning\TODO\TODO.Helpers\bin\Debug\TODO.Helpers.pdb
+C:\trainning\TODO\TODO.Helpers\obj\Debug\TODO.Helpers.dll
+C:\trainning\TODO\TODO.Helpers\obj\Debug\TODO.Helpers.pdb

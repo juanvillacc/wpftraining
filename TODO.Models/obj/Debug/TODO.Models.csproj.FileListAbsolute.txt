@@ -1,0 +1,7 @@
+C:\trainning\TODO\TODO.Models\bin\Debug\TODO.Models.dll
+C:\trainning\TODO\TODO.Models\bin\Debug\TODO.Models.pdb
+C:\trainning\TODO\TODO.Models\obj\Debug\TODO.Models.csprojResolveAssemblyReference.cache
+C:\trainning\TODO\TODO.Models\obj\Debug\TODO.Models.dll
+C:\trainning\TODO\TODO.Models\obj\Debug\TODO.Models.pdb
+C:\trainning\TODO\TODO.Models\bin\Debug\TODO.Helpers.dll
+C:\trainning\TODO\TODO.Models\bin\Debug\TODO.Helpers.pdb

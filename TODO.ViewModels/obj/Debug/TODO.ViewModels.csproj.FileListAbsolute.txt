@@ -1,0 +1,9 @@
+C:\trainning\TODO\TODO.ViewModels\bin\Debug\TODO.ViewModels.dll
+C:\trainning\TODO\TODO.ViewModels\bin\Debug\TODO.ViewModels.pdb
+C:\trainning\TODO\TODO.ViewModels\bin\Debug\TODO.Models.dll
+C:\trainning\TODO\TODO.ViewModels\bin\Debug\TODO.Models.pdb
+C:\trainning\TODO\TODO.ViewModels\obj\Debug\TODO.ViewModels.csprojResolveAssemblyReference.cache
+C:\trainning\TODO\TODO.ViewModels\obj\Debug\TODO.ViewModels.dll
+C:\trainning\TODO\TODO.ViewModels\obj\Debug\TODO.ViewModels.pdb
+C:\trainning\TODO\TODO.ViewModels\bin\Debug\TODO.Helpers.dll
+C:\trainning\TODO\TODO.ViewModels\bin\Debug\TODO.Helpers.pdb
